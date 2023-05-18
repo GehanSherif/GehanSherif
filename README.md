@@ -10,7 +10,7 @@ I am a Senior Engineering Student at [University of Science and Technology at Ze
 ## Skills:
 
 #### Languages:
-![C++](https://img.shields.io/badge/-c%2B%2B-blue)&nbsp;
+![C++](https://img.shields.io/badge/-c%2B%2B-blue?style=for-the-badge&logo=c++&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 
@@ -40,8 +40,6 @@ I am a Senior Engineering Student at [University of Science and Technology at Ze
 ## Connect with me:
 
 <p align = "center">
-
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/GehanSherif)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gehan-sherif/)
 </p>
 
