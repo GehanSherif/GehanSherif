@@ -10,7 +10,7 @@ I am a Senior Engineering Student at [University of Science and Technology at Ze
 ## Skills:
 
 #### Languages:
-![C++](https://img.shields.io/badge/-c%2B%2B-blue?style=for-the-badge&logo=#00599C)&nbsp;
+![C++](https://img.shields.io/badge/-c%2B%2B-blue?style=for-the-badge&logo=C++-SVG)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 
