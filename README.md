@@ -1,6 +1,6 @@
 ### Hi there, I'm [Gehan Sherif](https://github.com/GehanSherif) 👋
 
-I am a Senior Engineering Student at [University of Science and Technology at Zewail city](https://www.zewailcity.edu.eg/), Egypt. I'm studying communications and information engineering with a focus on machine learning and artificial intelligence.
+I am a senior engineering student at University of Science and Technology at [Zewail city](https://www.zewailcity.edu.eg/), Egypt. I'm studying communications and information engineering with a focus on machine learning and artificial intelligence.
 
  **I am open to**:
 - any collobration work,
